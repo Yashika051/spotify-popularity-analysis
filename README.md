@@ -4,6 +4,16 @@
 
 ---
 
+## 🌐 Live Analysis
+
+Explore the complete interactive Quarto report:
+
+**[🎧 View Spotify Track Popularity Analysis →](https://yashika051.github.io/spotify-popularity-analysis/)**
+
+Published with GitHub Pages, featuring the project's visual analysis, charts, and key findings.
+
+---
+
 ## 📌 Overview
 
 What makes a Spotify track popular?
